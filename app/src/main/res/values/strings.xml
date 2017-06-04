@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OpenCV_Demo</string>
+    <string name="msg">Please enable all permission</string>
+    <string name="button1">BGR2GRAY</string>
+    <string name="button2">RGB2Luv</string>
+    <string name="button3">Canny</string>
+    <string name="button4">RGB</string>
+    <string name="button5">Lab</string>
+</resources>
